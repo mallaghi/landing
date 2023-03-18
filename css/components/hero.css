@@ -1,0 +1,27 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.hero p{
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+
+
+.hero a{
+  background-color:  #1EDD88;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 25px;
+  font-weight: bold;
+
+}
+
+a:hover{
+  cursor: pointer;
+}

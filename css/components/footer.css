@@ -1,0 +1,25 @@
+.footer{
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+  color: white;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+}
+
+i{
+  display: inline-block;
+  padding: 0px 20px;
+  font-family: "Font Awesome 5 Brands";
+  font-size: 30px;
+  color: #1EDD88;
+}
+
+i:hover{
+  cursor: pointer;
+  color: #0d9632;;
+  transform: scale(150%);
+}
